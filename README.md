@@ -48,6 +48,8 @@ Exibindo página...
 Atendendo chamada...
 ```
 
+Código para fins de aprendizado
+
 ## 🤝 Contribuição
 
 - **Laisa Andrade** - [Github](https://github.com/LaisaCCAndrade)
